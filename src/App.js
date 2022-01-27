@@ -6,7 +6,7 @@ import { useState } from "react";
 export default function App() {
   return (
     <div className="App">
-      <h2>Bonjour Pierre-Louis bienvenue dans ton frigo !</h2>
+      <h2>Salut Pierre-Louis bienvenue dans ton frigo !</h2>
       <Frigo></Frigo>
     </div>
   );
